@@ -72,15 +72,15 @@ The Container can have the following div:
 
 ## Evaluation Criteria
 Your project will be evaluated on the following parameters -
-- ALL SONG SECTION  (Max Score 15)
-Render the song correctly using array and implement filter functionalities
-- EVENT HANDLING FOR ALL SONG SECTION (Max Score 20)
-Each song should have onclick event and the filter options should have change event
-- SONG CARD SECTION (Max Score 20)
-The Song details should be rendered correctly, Control Buttons should Function correctly
-- TOGGLE BUTTON (Max Score 15)
-Should be able to change the theme from light to dark and vice versa.
-- PLAYLIST SECTION (Max Score 20)
-Should be able to create new Playlist. Newly created playlist should be appended to the all playlist section with the click event. On selecting the playlist the song should be added to that particular playlist. The song added to the playlist should be preserved
-- ADDITIONAL TASK (Max Score 10)
-Should have a search option to search for a song and for playlist. Should have a option to remove a song from playlist
+- ALL SONG SECTION  
+Render the song correctly using array and implement filter functionalities. (Max Score 15)
+- EVENT HANDLING FOR ALL SONG SECTION 
+Each song should have onclick event and the filter options should have change event. (Max Score 20)
+- SONG CARD SECTION 
+The Song details should be rendered correctly, Control Buttons should Function correctly. (Max Score 20)
+- TOGGLE BUTTON 
+Should be able to change the theme from light to dark and vice versa. (Max Score 15)
+- PLAYLIST SECTION 
+Should be able to create new Playlist. Newly created playlist should be appended to the all playlist section with the click event. On selecting the playlist the song should be added to that particular playlist. The song added to the playlist should be preserved. (Max Score 20)
+- ADDITIONAL TASK 
+Should have a search option to search for a song and for playlist. Should have a option to remove a song from playlist. (Max Score 10)
